@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/crosshairs.png","C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/bin/Windows/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0.1384693
+"C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/galleryFont.spritefont","C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/bin/Windows/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70673,0.1965048
+"C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/sky.png","C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/bin/Windows/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0.2604957
+"C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/target.png","C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/bin/Windows/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0.0029972
