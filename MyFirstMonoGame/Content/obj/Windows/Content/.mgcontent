@@ -4,10 +4,10 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/crosshairs.png</File>
-    <File>C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/galleryFont.spritefont</File>
-    <File>C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/sky.png</File>
-    <File>C:/Users/bkohlberger/source/repos/MyFirstMonoGame/MyFirstMonoGame/Content/target.png</File>
+    <File>C:/git/MyFirstMonoGame/MyFirstMonoGame/Content/crosshairs.png</File>
+    <File>C:/git/MyFirstMonoGame/MyFirstMonoGame/Content/galleryFont.spritefont</File>
+    <File>C:/git/MyFirstMonoGame/MyFirstMonoGame/Content/sky.png</File>
+    <File>C:/git/MyFirstMonoGame/MyFirstMonoGame/Content/target.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
